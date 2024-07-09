@@ -1,0 +1,88 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black background */
+    color: #fff;
+    padding: 1rem 0;
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 2rem;
+}
+
+.logo {
+    font-size: 1.5rem;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+}
+
+.nav-links li {
+    margin-left: 1.5rem;
+}
+
+.nav-links a {
+    color: #fff;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    transition: background-color 0.3s ease;
+}
+
+.nav-links a:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 5px;
+}
+
+.nav-links .active {
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 5px;
+}
+
+.blog {
+    padding: 100px 20px 20px;
+    background: url('https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg?t=st=1720375334~exp=1720378934~hmac=a4f10a1d3887dab8f627cad3853dbbe9d7831806a77b2b753bc7c3b03ba2b329&w=1060') no-repeat center center/cover;
+    color: #fff;
+    text-align: center;
+}
+
+.blog-content {
+    background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent black background */
+    padding: 2rem;
+    border-radius: 10px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.blog-post {
+    margin-bottom: 2rem;
+}
+
+.blog-post h2 {
+    font-size: 2rem;
+    margin: 1rem 0;
+}
+
+.blog-post img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    max-height: 400px; /* Added to control image height */
+}
+
+.blog-post p {
+    font-size: 1.2rem;
+}
