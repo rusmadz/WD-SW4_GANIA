@@ -9,7 +9,7 @@
     <img src="https://i.pinimg.com/564x/6e/2e/d7/6e2ed73cad2be9e1fe24fb38fc153c7a.jpg" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">SEATWORK 4</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
@@ -57,13 +57,9 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-This project is a pre requisite, in order to pass the subject WEB DESIGN.
+This project is a pre requisite, in order to pass the subject WEB DESIGN. This Website include 2 different features. My Top 3 favorite favorite foods in the world, and my top 3 favorite place in the world. I hope this website will be accepted.
 
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+
 
 ### Key Components
 <!-- TODO: List of Key Components -->
@@ -117,4 +113,4 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| PINTEREST PICTURES | I got the pictures in this website in here. | pinterest.com |
