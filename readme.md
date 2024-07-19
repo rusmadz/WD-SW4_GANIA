@@ -57,7 +57,7 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-This project is a pre requisite, in order to pass the subject WEB DESIGN. This Website include 2 different features. My Top 3 favorite favorite foods in the world, and my top 3 favorite place in the world. I hope this website will be accepted.
+This project is a pre requisite, in order to pass the subject WEB DESIGN. This Website include 2 different features. The first one are different shoes you can try and buy. Feature 2 highlights the essential parts of a car. I only used html and css for this project.
 
 
 
